@@ -1,0 +1,183 @@
+# Elenco offerte laptop — minimo Ryzen AI 7 350, RAM/SSD espandibili
+
+**Ultimo aggiornamento:** 2026-11-10 · **Ricerca n.** 3
+**Requisiti:** CPU **minimo Ryzen AI 7 350** (8 core Zen 5 + NPU 50 TOPS; vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · nessuna GPU dedicata · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
+**Vincoli:** solo negozi italiani · **max 1.200 €** IVA e spedizione incluse · **pagabile con Carta del Docente** (no marketplace).
+
+> ⚠️ **Prima di comprare:** con la Carta del Docente l'hardware si può acquistare solo alla prima erogazione e poi ogni 4 anni (DM 59/2026). Verifica su cartadeldocente.istruzione.it. Il buono 2025/26 vale 383 €: la differenza la paghi a parte.
+
+---
+
+## Esito della ricerca n. 3
+
+Ho controllato tutti i negozi italiani che accettano la Carta del Docente: Unieuro, MediaWorld (solo prodotti venduti da MediaWorld), Lenovo.com, IT-Partners e Campustore. Con CPU ≥ Ryzen AI 7 350, RAM SO-DIMM e prezzo ≤ 1.200 € **c'è una sola offerta valida**: l'IdeaPad Slim 5 14AKP10 su Unieuro, che però al momento è **esaurita online**.
+
+## Classifica
+
+| # | Modello | Negozio | Prezzo | CPU | RAM (slot) | SSD (slot) | Batteria / autonomia | Peso | Punti |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 ⚠️ | **Lenovo IdeaPad Slim 5 14AKP10** (83HX006FIX) | Unieuro | **799,00 €** (listino 1.099 €) | **Ryzen AI 7 350** | **32 GB** DDR5-5600 SO-DIMM, 2 slot (pieni) | 1 TB + **2° slot M.2 2280 libero** | 60 Wh · ~12–13 h stimata | 1,47 kg | **84** |
+| 2 | ASUS Vivobook 16 M1607KA-MB053W | Unieuro | 599,90 € (listino 999 €) | Ryzen AI 7 350 | 16 GB, metà **saldata** + 1 SO-DIMM | 1 TB, 1 slot M.2 | **42 Wh** · ~6–8 h | 1,88 kg | **57** |
+
+⚠️ = "Non disponibile" online al 2026-11-10.
+
+Il Vivobook 16 è in classifica solo perché rispetta formalmente CPU, prezzo e negozio. **Non lo consiglio**: batteria da 42 Wh, RAM in parte saldata, linea economica.
+
+### Dettaglio punteggi
+
+| # | Modello | CPU /10 | RAM /20 | Storage /15 | Autonomia /25 | Affidabilità /20 | Prezzo /10 | Totale |
+|---|---|---|---|---|---|---|---|---|
+| 1 | IdeaPad Slim 5 14AKP10 | 10 | 17 | 15 | 19 | 13 | 10 | **84** |
+| 2 | Vivobook 16 M1607KA | 10 | 10 | 11 | 8 | 8 | 10 | **57** |
+
+### Quanto vale l'offerta Unieuro (confronto prezzi dello stesso SKU 83HX006FIX)
+
+| Negozio | Prezzo | Disponibilità | Carta del Docente |
+|---|---|---|---|
+| **Unieuro** | **799,00 €** (~623 € con -22% Unieuro Club fino al 12/11) | Non disponibile online | Sì (da confermare in negozio) |
+| Yeppon | 974,99 € | n.d. | **No** |
+| Dagimarket (DVG Commerce, Conversano BA) | 985,63 € | Esaurito | Non indicata (carta, PayPal, bonifico) |
+| Germania / Austria (variante 24 GB, tastiera DE) | ~944–975 € | — | Non ammessi |
+
+È davvero un'offerta eccezionale: costa **~180–190 € meno** di qualsiasi altro negozio italiano, e ha 32 GB invece dei 16 GB richiesti.
+
+### Verifica disponibilità zona Genova (2026-11-10)
+
+Controllo fatto sul sito Unieuro con CAP di Genova: il prodotto è **"Non disponibile"** e il pulsante "Ritiro in negozio → Scegli il negozio" è **disattivato**. Unieuro non mostra la giacenza dei negozi per gli articoli esauriti online, quindi bisogna **chiedere direttamente ai punti vendita**:
+
+| Negozio Unieuro | Indirizzo | Telefono (da directory, da verificare) |
+|---|---|---|
+| Genova Campi, via Bianchi | via Renata Bianchi 84, 16152/16159 Genova (c/o CC Castorama) | 010 601 8883 |
+| Genova, piazza della Vittoria | piazza della Vittoria 146-150, 16121 Genova | n.d. |
+| Genova, Marassi | piazzale Marassi 3/12R, 16139 Genova | n.d. |
+| Chiavari | via Tripoli 12, 16043 Chiavari | n.d. |
+| Rapallo | corso Matteotti 68, 16035 Rapallo | n.d. |
+| Santa Margherita Ligure | piazza Mazzini 5, 16038 S. Margherita L. | n.d. |
+
+**Cosa chiedere al telefono / in negozio:**
+1. Avete in giacenza (o potete ordinare) il **Lenovo IdeaPad Slim 5 14AKP10, codice 83HX006FIX**, a **799 €**?
+2. Posso pagare con **buono Carta del Docente + differenza** con carta/bancomat?
+3. Il **-22% Unieuro Club** (fino al 12/11) si applica anche se pago in parte con la Carta del Docente?
+
+In più: attivare **"Notifica disponibilità"** sulla pagina Unieuro.
+Se non si trova, la ricerca va riaperta allargando un vincolo: budget fino a ~1.250 € oppure negozi che non accettano la Carta del Docente.
+
+---
+
+## Schede tecniche
+
+### 1. Lenovo IdeaPad Slim 5 14AKP10 (83HX006FIX) — 84 punti ⚠️
+
+| Campo | Valore |
+|---|---|
+| Negozio / venditore | **Unieuro** (unieuro.it), venduto da Unieuro |
+| Prezzo | **799,00 €** IVA inclusa (prezzo consigliato 1.099 €) · promo -22% Unieuro Club fino al 12/11/2026 (spesa ≥ 199 €) → ~623 € |
+| Disponibilità | ⚠️ "Non disponibile" online al 2026-11-10; consegna e ritiro in negozio gratuiti quando disponibile |
+| Carta del Docente | Unieuro accettato; verificare pagamento misto e cumulabilità con la promo |
+| CPU | AMD Ryzen AI 7 350: 8 core / 16 thread Zen 5 (4 Zen 5 + 4 Zen 5c), fino a 5,0 GHz, 28 W, NPU 50 TOPS (Copilot+) |
+| iGPU | Radeon 860M |
+| RAM | **32 GB DDR5-5600 SO-DIMM**, 2 slot dual channel (entrambi occupati; max ufficiale 32 GB) |
+| Storage | 1 TB NVMe PCIe 4.0 (M.2 2242) + **secondo slot M.2 2280 PCIe 4.0 x4 libero** |
+| Display | 14" 16:10 IPS 1920×1200, 300 nit, 45% NTSC, 60 Hz, antiriflesso |
+| Batteria | 60 Wh Li-Po, Rapid Charge Boost (15 min ≈ 2 h) |
+| Autonomia | Lenovo: fino a 19,7 h di video 1080p a 150 nit · scheda Unieuro: 10,5 h · **stima Wi-Fi realistica ~12–13 h** |
+| Alimentatore | 65 W USB-C PD 3.0 |
+| Peso / dimensioni | 1,47 kg · 313,4 × 222 × 16,9 mm |
+| Porte | 2× USB-C 10 Gbps (PD + DisplayPort 1.4), 2× USB-A 5 Gbps, HDMI 2.1, lettore microSD, jack 3,5 mm · **no RJ45** |
+| Wireless | Wi-Fi 7, Bluetooth 5.4 |
+| Costruzione | **Alluminio** sopra e sotto, MIL-STD-810H (21 test) · webcam 1080p |
+| Garanzia | 2 anni |
+| OS | Windows 11 Home |
+| Pro | CPU esatta richiesta, 32 GB già inclusi, doppio slot SSD, alluminio, leggero, prezzo eccezionale |
+| Contro | Linea consumer (meno robusta di un ThinkPad), schermo base, niente Ethernet, **esaurito online** |
+
+### 2. ASUS Vivobook 16 M1607KA-MB053W — 57 punti (sconsigliato)
+
+| Campo | Valore |
+|---|---|
+| Negozio / venditore | **Unieuro** |
+| Prezzo | **599,90 €** (listino 999 €, -39%) · scorte limitate |
+| CPU | Ryzen AI 7 350, 8C/16T |
+| RAM | 16 GB DDR5: parte **saldata** + 1 SO-DIMM (la scheda dice sia "On-board" sia "2x SO-DIMM"), max 32 GB |
+| Storage | 1 TB NVMe PCIe 4.0 M.2 2280, 1 slot |
+| Display | 16" WUXGA 300 nit |
+| Batteria | **42 Wh**, 3 celle |
+| Autonomia | ~6–8 h stimata (insufficiente) |
+| Alimentatore | 65 W USB-C (20 V / 3,25 A) |
+| Peso | 1,88 kg |
+| Porte | 2× USB-C 5 Gbps (DP), 2× USB-A 5 Gbps, HDMI 2.1 |
+| Wireless | Wi-Fi 6 |
+| Pro | Prezzo bassissimo con la CPU giusta |
+| Contro | Batteria piccola, RAM solo in parte espandibile, linea economica, pesante |
+
+---
+
+## Con la CPU giusta ma non acquistabili con la Carta del Docente
+
+Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori budget.
+
+| Modello | CPU | Venditore | Prezzo | Motivo |
+|---|---|---|---|---|
+| HP EliteBook 8 G1a 14 D76LTET (16/512, 2 slot SO-DIMM, 62 Wh) | Ryzen AI 7 350 | MediaWorld marketplace, MC Distribuzione | 1.117,01 € | Marketplace. **Sarebbe ottimo** (14,2 h misurate su Notebookcheck) |
+| HP EliteBook 8 G1a 14 AD4J5ET (16/512) | Ryzen AI 7 350 | MediaWorld marketplace, TecnoPrice / Yeppon | 1.179,68 € / 1.209,99 € | Marketplace / Yeppon non accetta la Carta |
+| ASUS ExpertBook P3 PM3606CKA-MB0184X (16/1 TB) | Ryzen AI 7 350 | MediaWorld marketplace, TecnoPrice | 1.202,00 € | Marketplace, 2 € sopra il tetto |
+| ASUS ExpertBook P3 PM3406CKA-NZ0021X (16/1 TB) | Ryzen AI 7 350 | MediaWorld marketplace / IT-Partners | 1.208,50 € / 1.274,78 € (esaurito) | Sopra il tetto |
+| ASUS Vivobook 14 M1407KA-LY053W (16/512) | Ryzen AI 7 350 | MediaWorld marketplace, ESSEEFFE COM | 996,14 € | Marketplace; RAM probabilmente in parte saldata |
+| MSI Venture A16 AI+ A3HMG-024IT | Ryzen AI 7 350 | MediaWorld marketplace | 1.299,88 € | Marketplace e sopra il tetto |
+| HP EliteBook 8 G2a 16 DL5Q3AT | Ryzen AI 7 450 | MediaWorld marketplace / IT-Partners | 1.397 € / 1.702 € | Sopra il tetto |
+| ThinkPad T14 Gen 7 AMD 21WV003MIX | Ryzen AI 7 PRO 450 | MediaWorld marketplace / IT-Partners | 1.545,99 € / 1.796,32 € | Sopra il tetto |
+| ThinkPad L16 Gen 3 AMD | Ryzen AI 7 PRO 450 | Lenovo.com | 1.678 € | Sopra il tetto |
+
+## Esclusi per CPU sotto il Ryzen AI 7 350 (erano nella ricerca 2)
+
+| Modello | CPU | Negozio | Prezzo |
+|---|---|---|---|
+| ASUS ExpertBook P3 PM3406CHA-LY0217X | Ryzen 7 8840HS (Zen 4, vecchia generazione) | IT-Partners | 1.117,79 € |
+| Lenovo IdeaPad Slim 5 Gen 10 16" AMD | Ryzen AI 5 340 (6 core) | Lenovo.com | 1.148,92 € |
+| Lenovo ThinkPad E14 Gen 7 AMD 21T0007XIX | Ryzen 5 220 (Zen 4) | IT-Partners | 1.181,78 € |
+| HP ProBook 4 G2a 14 DP9K0AT | Ryzen AI 5 430 (4 core) | IT-Partners | 1.168,76 € |
+| HP ProBook 4 G1a 14 D76JKET | Ryzen 7 250 (Zen 4) | IT-Partners | 1.167,42 € |
+| Lenovo IdeaPad Slim 5a Gen 11 14"/16" | Ryzen AI 5 430 / AI 7 445 (6 core) | Lenovo.com | da 971,51 € |
+| HP ProBook 4 G2a DP9J9AT | Ryzen AI 7 445 (6 core) | MediaWorld marketplace | 1.122,97 € |
+
+## Esclusi per RAM saldata
+
+| Modello | Prezzo visto | Nota |
+|---|---|---|
+| HP OmniBook 5 16" AMD (ag1025nl / ag1026nl, Ryzen AI 7 350) | 899 € MediaWorld · 699,90 € Unieuro | Recensioni clienti: RAM saldata, non espandibile |
+| ASUS Vivobook S16 / Zenbook 14 (Ryzen AI 7 350) | 899,90 € / 799,90 € Unieuro | LPDDR5X saldata |
+| Lenovo Yoga Slim 7 / Yoga 7a (Ryzen AI 7 445) | da 999 € | LPDDR5X saldata |
+| Dell Pro 14 Plus, ThinkPad T14s, LG gram AMD | — | LPDDR5/LPDDR5X saldata |
+
+---
+
+## Archivio: ricerca n. 1 (prezzi esteri, senza vincoli di budget e negozio)
+
+| Modello | CPU | RAM / SSD | Batteria · autonomia misurata | Prezzo IT osservato | Motivo |
+|---|---|---|---|---|---|
+| ASUS ExpertBook P3 PM3406CKA | Ryzen AI 7 350 | 2 slot SO-DIMM / 2 slot M.2 | 70 Wh · **14,0 h** (Notebookcheck) | 1.202–1.275 € | Appena sopra il tetto, solo marketplace. Il "1.075 € Bechtle IT" della ricerca 1 era il prezzo **netto** (1.328,58 € IVA inclusa) |
+| HP EliteBook 8 G1a 14 | Ryzen AI 7 350 | 2 slot / 1 slot | 62 Wh · 14,2 h | 1.117–1.451 € (marketplace) | Solo marketplace |
+| ThinkPad T14 Gen 6 AMD | Ryzen AI 5 PRO 340 / AI 7 PRO 350 | 2 slot / 1 slot | 57 Wh · 13,8 h | 1.432–1.464 € | Sopra il tetto |
+| ThinkPad T14 Gen 7 AMD | Ryzen AI 7 PRO 450 | 2 slot / 1 slot | 75 Wh · n.d. | 1.546–1.796 € | Sopra il tetto |
+| ThinkPad E14 Gen 8 AMD | Ryzen AI 7 345 | 2 slot / 2 slot | 64 Wh · 13,3 h | 1.420–1.464 € | CPU sotto il 350 e sopra il tetto |
+| ThinkPad L14 Gen 6 AMD | Ryzen AI 7 PRO 350 | 2 slot / 1 slot | 57 Wh · 10,5 h | 1.272,58 € (solo con Ryzen 5 PRO 215) | Sopra il tetto |
+| Dell Pro 14 Plus PB14255 | Ryzen AI 7 PRO 350 | **saldata** | 55 Wh · 11,8 h | — | RAM saldata |
+
+---
+
+## Fonti (rilevazione 2026-11-10)
+
+**Negozi**
+- Unieuro: [IdeaPad Slim 5 14AKP10 83HX006FIX](https://www.unieuro.it/online/Notebook/IdeaPad-Slim-5-14AKP10-Copilot-PC-pidLNV83HX006FIX) · [Vivobook 16 M1607KA-MB053W](https://www.unieuro.it/online/Notebook/Vivobook-16-pidASUM1607KAMB053W) · [ricerca Ryzen AI 7 450](https://www.unieuro.it/online/products?q=ryzen%20ai%207%20450)
+- Confronto prezzi 83HX006FIX: [Kelaptop](https://kelaptop.com/it/lenovo-ideapad-slim-5-14akp10-copilot-83hx006fix) · [Dagimarket](https://www.dagimarket.com/en/notebooks/612593-lenovo-ideapad-slim-5-14akp10-copilot-pc-amd-ryzen-ai-7-350-laptop-356-cm-14-wuxga-32-gb-ddr5-sdram-1-tb-ssd-wi-fi-7-0199271503119.html)
+- MediaWorld: [ricerca Ryzen AI 7 350](https://www.mediaworld.it/it/search.html?query=ryzen%20ai%207%20350) · [Carta del Docente (marketplace escluso)](https://www.mediaworld.it/it/service/carta-del-docente)
+- Lenovo.com: [ricerca Ryzen AI 7 350](https://www.lenovo.com/it/it/search?text=Ryzen%20AI%207%20350) · [Bonus Docenti](https://www.lenovo.com/it/it/education/bonus-docenti/)
+- IT-Partners: [Carta del Docente](https://www.it-partners.it/en-eu/pages/carta-del-docente) · [ExpertBook PM3406CHA](https://www.it-partners.it/it-it/products/asus-nb-14-expertbook-pm3-ryzen-7-8840hs-16gb-512gb-ssd-win-11-pro-pm3406cha-ly0217x)
+- Yeppon: [EliteBook 8 G1a AD4J5ET](https://www.yeppon.it/products/hp-elitebook-8-g1a-1295841) · [metodi di pagamento](https://www.yeppon.it/pages/pagamenti)
+
+**Schede tecniche e recensioni**
+- Lenovo PSREF: [IdeaPad Slim 5 14AKP10](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_5_14AKP10/IdeaPad_Slim_5_14AKP10_Spec.html) · [IdeaPad Slim 5 16AKP10](https://psref.lenovo.com/syspool/Sys/PDF/IdeaPad/IdeaPad_Slim_5_16AKP10/IdeaPad_Slim_5_16AKP10_Spec.html)
+- Notebookcheck: [ASUS ExpertBook PM3](https://www.notebookcheck.net/Asus-ExpertBook-PM3-Review-Office-laptop-with-AMD-long-battery-life-and-Copilot.1200511.0.html) · [ThinkPad T14 Gen 6 AMD (con confronto EliteBook 8 G1a)](https://www.notebookcheck.net/AMD-Ryzen-AI-meets-classic-ThinkPad-Lenovo-ThinkPad-T14-Gen-6-AMD-laptop-review.1222690.0.html) · [IdeaPad Slim 5 14 in offerta (DE)](https://www.notebookcheck.com/OLED-Display-Ryzen-AI-7-24-GB-RAM-IdeaPad-Slim-5-mit-50-TOPS-NPU-im-Angebot.1169217.0.html)
+
+**Carta del Docente**
+- OrizzonteScuola: [hardware ogni 4 anni](https://www.orizzontescuola.it/carta-del-docente-e-acquisto-di-hardware-e-software-come-funziona-la-nuova-cadenza-quadriennale-occhio-alla-data-del-31-agosto/) · DeFaNet: [Carta del Docente su Unieuro](https://www.defanet.it/blog/guide-e-trucchi/unieuro-come-usare-carta-docente.html)
