@@ -39,6 +39,7 @@ Cerco un portatile con **CPU almeno di livello Ryzen AI 7 350** (AMD Ryzen AI 7 
 | 2026-11-10 | — | Creato il repository git: i file `.md` sono la fonte primaria |
 | 2026-11-11 | n. 4 | Note dell'amica integrate: Amazon.it accetta la Carta (solo venduto e spedito da Amazon); aggiunto **Giannone Computers**; **IdeaPad Slim 5 non disponibile in tutta Italia** (verificato dall'utente) → archiviato; Euronics e Reware senza modelli idonei (verificato dall'utente). Proposta GPU dedicata **respinta**. Scoperto il **vincolo dei 4 anni** (finestra hardware chiusa il 31/08/2026 per chi aveva già la Carta); l'utente conferma che è la **prima erogazione** → può comprare dopo l'attivazione della Carta 2026/27. Euronics accetta la Carta (pagina ufficiale). Giannone: unico modello idoneo ≤ 1.200 € è il Vivobook 14 M1407KA a 899 € |
 | 2026-11-11 | — | Creato `data/processori.md`: analisi dei 10 processori per laptop migliori per longevità, autonomia e multimedia/design senza GPU dedicata (800–1.200 €). Ne emerge una domanda aperta: ammettere gli Intel Core Ultra 7 355 / 5 325 (Panther Lake) con RAM SO-DIMM come equivalenti al Ryzen AI 7 350 |
+| 2026-11-11 | n. 6 (verifica) | Cercata una recensione con l'autonomia dell'ExpertBook B3 G2: **non ne esistono ancora con test misurati**. ASUS dichiara 19–20 h, ma con batterie da 63–70 Wh; in Italia è elencata solo quella da 50 Wh. Il riferimento più vicino (ThinkBook 14 G9, Core Ultra 5 325, 48 Wh) fa **8,7 h** su Notebookcheck → stima **~9–11 h**, punteggio da 85 a 81. Resta comunque il candidato principale |
 | 2026-11-11 | n. 6 | **Ammessi gli Intel Core Ultra serie 3 (Panther Lake) ≥ 8 core** (decisione dell'utente). Trovato il nuovo **candidato principale: ASUS ExpertBook B3 G2 14" B3405CAA-LY0285X** (Core Ultra 5 325, 16 GB DDR5 SO-DIMM fino a 96 GB, 3 slot M.2 in totale, 50 Wh, Thunderbolt 4, RJ45, MIL-STD 810H, 3 anni di garanzia) da **Giannone a 1.154,85 €** (85 punti). Anche il 16" B3605CAA-MB0018X a 1.192,55 €. Samsung Galaxy Book6 (Amazon/Unieuro) scartato per RAM saldata |
 | 2026-11-11 | n. 5 | **Amazon.it esplorato** (solo venduto da Amazon): con Ryzen AI 7 350 ci sono solo HP OmniBook 5 16 e OmniBook X Flip, entrambi con **LPDDR5X saldata** → nessuna offerta valida. I modelli con SO-DIMM sono venduti solo da terzi (es. Vivobook 14 M1407KA da Giannone a 999,90 € su Amazon, contro 899 € sul suo sito) |
 
@@ -47,8 +48,8 @@ Cerco un portatile con **CPU almeno di livello Ryzen AI 7 350** (AMD Ryzen AI 7 
 **Candidato principale (dal 2026-11-11): ASUS ExpertBook B3 G2 14" Intel, B3405CAA-LY0285X (MPN 90NX0A01-M009Y0)**
 - **Dove e quanto:** Giannone Computers, **1.154,85 €** IVA inclusa (promo, 55 pezzi). Da IT-Partners costa 1.236,57 €.
 - **Perché:** rispetta tutti i vincoli. Core Ultra 5 325, 16 GB DDR5 **SO-DIMM con slot libero fino a 96 GB**, SSD 512 GB più **due slot M.2 liberi** (2280 e 2230), Thunderbolt 4, RJ45, Wi-Fi 7, **MIL-STD 810H**, **3 anni di garanzia ASUS**, 1,45 kg, Windows 11 Pro.
-- **Punti deboli:** batteria da **50 Wh** senza test misurati (stima ~11–13 h), schermo base da 300 nit, CPU senza Hyper-Threading.
-- **Prossime azioni:** cercare una recensione con l'autonomia misurata; chiedere a Giannone conferma di prezzo, spedizione e pagamento misto con la Carta; ricontrollare il prezzo quando la Carta 2026/27 sarà attiva.
+- **Punti deboli:** **autonomia stimata solo ~9–11 h** con la batteria da 50 Wh. Non ci sono test della B3 G2; il riferimento misurato è il ThinkBook 14 G9 con lo stesso Core Ultra 5 325 e 48 Wh: 8,7 h (Notebookcheck). Inoltre schermo base da 300 nit e CPU senza Hyper-Threading. Punteggio sceso da 85 a **81** dopo questa verifica.
+- **Prossime azioni:** chiedere a Giannone conferma di prezzo, spedizione, pagamento misto con la Carta e **capacità della batteria** (esistono versioni da 63/70 Wh?); ricontrollare a inizio 2027 se è uscita una recensione misurata; ricontrollare il prezzo quando la Carta 2026/27 sarà attiva.
 
 **Alternative valide ma secondarie:**
 - ExpertBook B3 G2 16" B3605CAA-MB0018X, 1.192,55 € da Giannone (82 punti): più grande, senza vantaggi;
@@ -90,7 +91,8 @@ Cerco un portatile con **CPU almeno di livello Ryzen AI 7 350** (AMD Ryzen AI 7 
 4. **Nomi ingannevoli**: Ryzen AI 7 345 e AI 7 445 hanno 6 core; Ryzen AI 5 430 ne ha 4; Ryzen 7 260 è Zen 4. "AI 7" nel nome non garantisce 8 core.
 5. **Schede negozio contraddittorie**: es. Vivobook 16 M1607KA, che risulta sia "On-board" sia "2x SO-DIMM". Fa fede la scheda del produttore (PSREF Lenovo, QuickSpecs HP, ASUS).
 6. **Il marketplace MediaWorld è la trappola principale**: lì ci sono prezzi buoni (es. EliteBook 8 G1a Ryzen AI 7 350 a 1.117 €), ma non sono pagabili con la Carta. Su Amazon vale la stessa regola (solo "venduto e spedito da Amazon").
-7. **Le offerte spariscono**: l'IdeaPad a 799 € è sparito in un giorno. Quando si trova un'offerta valida e la Carta è attiva, conviene decidere in fretta.
+7. **L'efficienza di Panther Lake dipende dal portatile**: con lo stesso tipo di processore Notebookcheck ha misurato 8,7 h (ThinkBook 14 G9, Core Ultra 5 325, 48 Wh) e 19,1 h (Dell 14S, Core Ultra 7 355, 70 Wh). Le dichiarazioni dei produttori (fino a 20 h) sono fatte con video a bassa luminosità e batterie più grandi: non usarle mai come stima.
+8. **Le offerte spariscono**: l'IdeaPad a 799 € è sparito in un giorno. Quando si trova un'offerta valida e la Carta è attiva, conviene decidere in fretta.
 
 ## 7. Modelli da tenere d'occhio (se scendono di prezzo o compaiono in un negozio accreditato)
 
@@ -122,8 +124,8 @@ Cerco un portatile con **CPU almeno di livello Ryzen AI 7 350** (AMD Ryzen AI 7 
 - [ ] **Utente**: entrare nell'Area Docenti (SPID/CIE) e consultare l'elenco esercenti "Hardware e Software" in provincia di Genova; annotare eventuali negozi fisici senza sito.
 - [ ] **Utente**: quando esce il decreto 2026/27 (entro il 30/01/2027), verificare l'attivazione della Carta e l'importo.
 - [ ] **Utente**: chiedere a Giannone Computers un preventivo per **ExpertBook P3 PM3406CKA** (14", Ryzen AI 7 350) o PM3606CKA sotto i 1.200 € con pagamento tramite Carta del Docente (è un Asus Gold Store).
-- [ ] Trovare una **recensione con l'autonomia misurata** dell'ExpertBook B3 G2 (B3405CAA, batteria da 50 Wh), per esempio su Notebookcheck o HardwareLuxx.
-- [ ] **Utente**: chiedere a Giannone (0932 906688) conferma per l'ExpertBook B3 G2 B3405CAA-LY0285X: prezzo, spese di spedizione, disponibilità a inizio 2027, pagamento con Carta del Docente più differenza.
+- [ ] Ricontrollare a inizio 2027 se è uscita una **recensione con l'autonomia misurata** dell'ExpertBook B3 G2 (Notebookcheck, HardwareLuxx). Al 2026-11-11 non ce ne sono: si usa la stima ~9–11 h.
+- [ ] **Utente**: chiedere a Giannone (0932 906688) conferma per l'ExpertBook B3 G2 B3405CAA-LY0285X: prezzo, spese di spedizione, disponibilità a inizio 2027, pagamento con Carta del Docente più differenza, **capacità della batteria (50 Wh?) ed eventuale versione da 63/70 Wh**.
 - [x] ~~Decidere se ammettere gli Intel Core Ultra serie 3~~: **sì**, ammessi dall'utente il 2026-11-11 (CLAUDE.md aggiornato).
 - [ ] Ricontrollare **Amazon.it** solo come monitoraggio (saldi): al 2026-11-11 nessun modello idoneo venduto da Amazon.
 - [ ] Verificare la scheda completa ASUS del Vivobook 14 M1407KA-LY053W (batteria, slot M.2, peso).

@@ -16,19 +16,38 @@ Dopo l'ammissione degli Intel Core Ultra serie 3, ho cercato modelli con **RAM D
 
 | # | Modello | Negozio | Prezzo | CPU | RAM (slot) | SSD (slot) | Batteria / autonomia | Peso | Punti |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 | **ASUS ExpertBook B3 G2 14" B3405CAA-LY0285X** | **Giannone Computers** | **1.154,85 €** | Intel Core Ultra 5 325 | 16 GB DDR5 **SO-DIMM**, 1 slot libero, **max 96 GB** | 512 GB + **2° slot M.2 2280 + slot 2230** | 50 Wh · ~11–13 h stimata | 1,45 kg | **85** |
-| 2 | ASUS ExpertBook B3 G2 16" B3605CAA-MB0018X | Giannone Computers | 1.192,55 € | Intel Core Ultra 5 325 | 16 GB DDR5 SO-DIMM, 1 slot libero, max 64 GB (dato negozio) | 512 GB (slot da verificare) | da verificare · ~10–12 h stimata | n.d. (16") | **82** |
+| 1 | **ASUS ExpertBook B3 G2 14" B3405CAA-LY0285X** | **Giannone Computers** | **1.154,85 €** | Intel Core Ultra 5 325 | 16 GB DDR5 **SO-DIMM**, 1 slot libero, **max 96 GB** | 512 GB + **2° slot M.2 2280 + slot 2230** | 50 Wh · **~9–11 h stimata** (vedi nota autonomia) | 1,45 kg | **81** |
+| 2 | ASUS ExpertBook B3 G2 16" B3605CAA-MB0018X | Giannone Computers | 1.192,55 € | Intel Core Ultra 5 325 | 16 GB DDR5 SO-DIMM, 1 slot libero, max 96 GB (scheda ASUS) | 512 GB + 2° slot M.2 2280 + slot 2230 | 50 Wh (scheda ASUS Italia) · ~8–10 h stimata | 1,83 kg | **80** |
 | 3 | ASUS Vivobook 14 M1407KA-LY053W | Giannone Computers | 899,00 € | Ryzen AI 7 350 | 16 GB **saldati** + 1 slot libero | 512 GB | ~42 Wh · ~7–9 h | ~1,4 kg | **59** |
 | 4 | ASUS Vivobook 16 M1607KA-MB053W | Unieuro | 599,90 € | Ryzen AI 7 350 | metà **saldata** + 1 SO-DIMM | 1 TB | 42 Wh · ~6–8 h | 1,88 kg | **57** |
 
 | # | Modello | CPU /10 | RAM /20 | Storage /15 | Autonomia /25 | Affidabilità /20 | Prezzo /10 | Totale |
 |---|---|---|---|---|---|---|---|---|
-| 1 | ExpertBook B3 G2 14" | 10 | 20 | 15 | 17 | 18 | 5 | **85** |
-| 2 | ExpertBook B3 G2 16" | 10 | 20 | 13 | 16 | 18 | 5 | **82** |
+| 1 | ExpertBook B3 G2 14" | 10 | 20 | 15 | 13 | 18 | 5 | **81** |
+| 2 | ExpertBook B3 G2 16" | 10 | 20 | 15 | 12 | 18 | 5 | **80** |
+
+*Punteggi ricalcolati il 2026-11-11 dopo la verifica dell'autonomia: era 85/82 con la stima iniziale di 11–13 h.*
 | 3 | Vivobook 14 M1407KA | 10 | 12 | 11 | 10 | 8 | 8 | **59** |
 | 4 | Vivobook 16 M1607KA | 10 | 10 | 11 | 8 | 8 | 10 | **57** |
 
-**Raccomandazione:** l'**ExpertBook B3 G2 14" (B3405CAA-LY0285X) da Giannone a 1.154,85 €** è oggi la prima offerta che rispetta **tutti** i vincoli **e** i requisiti di qualità: linea business, RAM espandibile fino a 96 GB, due slot SSD aggiuntivi, Thunderbolt 4, MIL-STD 810H e 3 anni di garanzia ASUS. Il punto debole è la batteria da 50 Wh (non ci sono ancora test misurati). Da IT-Partners lo stesso modello costa 1.236,57 €, quindi Giannone è più conveniente.
+**Raccomandazione:** l'**ExpertBook B3 G2 14" (B3405CAA-LY0285X) da Giannone a 1.154,85 €** è oggi la prima offerta che rispetta **tutti** i vincoli **e** i requisiti di qualità: linea business, RAM espandibile fino a 96 GB, due slot SSD aggiuntivi, Thunderbolt 4, MIL-STD 810H e 3 anni di garanzia ASUS. Il **punto debole è l'autonomia**: con 50 Wh la stima realistica è **~9–11 h** (vedi nota sotto), meno delle 13–14 h misurate sui Ryzen AI 7 350 con 57–70 Wh. Da IT-Partners lo stesso modello costa 1.236,57 €, quindi Giannone è più conveniente.
+
+### Nota sull'autonomia dell'ExpertBook B3 G2 (verifica del 2026-11-11)
+
+- **Non esiste ancora una recensione con test misurato** della B3 G2 (B3405CAA / B3605CAA). La recensione di HardwareLuxx riguarda la generazione precedente (B3405CCA, Arrow Lake). La recensione di ngxptech.com non pubblica misure: dà solo stime contraddittorie (10–15 h, 15–19 h).
+- **Dichiarazioni ASUS:** fino a **20 h** (14") e **19 h** (16"), misurate con riproduzione video 1080p a 150–200 nit, con **batterie da 63–70 Wh** e configurazioni di test diverse (il 14" con Core 3 304). In Italia ASUS elenca per entrambe le versioni **solo 50 Wh**. Sono dati di marketing, non confrontabili.
+- **Riferimento misurato più vicino (Notebookcheck, Wi-Fi v1.3):**
+
+| Portatile | CPU | Batteria | Autonomia Wi-Fi |
+|---|---|---|---|
+| **Lenovo ThinkBook 14 G9 IPL** | **Core Ultra 5 325** | **48 Wh** | **8,7 h** |
+| Dell 14S DS14260 | Core Ultra 7 355 | 70 Wh | 19,1 h |
+| Dell XPS 14 | Core Ultra X7 358H | 70 Wh | 16,8 h |
+| ThinkPad T14 Gen 6 AMD | Ryzen AI 7 PRO 350 | 57 Wh | 13,8 h |
+| ASUS ExpertBook PM3406 | Ryzen AI 7 350 | 70 Wh | 14,0 h |
+
+- **Conclusione:** l'efficienza di Panther Lake **dipende molto dal portatile** (8,7 h contro 19,1 h). Il ThinkBook 14 G9, un business da 14" con lo stesso processore e una batteria quasi uguale, è il paragone più fedele: per la B3 G2 con 50 Wh la stima realistica è **~9–11 h**, sufficiente per una giornata di lavoro ma non eccezionale.
+- **Da chiedere a Giannone:** se l'SKU italiano ha davvero la batteria da 50 Wh, e se esiste una versione con batteria da 63 o 70 Wh allo stesso prezzo.
 
 ⏳ Ricorda: con la Carta del Docente si potrà comprare solo **dopo l'attivazione della Carta 2026/27** (entro il 30/01/2027). Il prezzo va ricontrollato in quel momento.
 
@@ -46,7 +65,7 @@ Dopo l'ammissione degli Intel Core Ultra serie 3, ho cercato modelli con **RAM D
 | Storage | 512 GB NVMe PCIe 4.0 M.2 2280 + **slot M.2 2280 (PCIe 4.0/5.0 x4)** + **slot M.2 2230 (PCIe 4.0 x4)** (scheda ASUS) |
 | Display | 14" WUXGA 1920×1200 IPS, antiriflesso, 300 nit, 45% NTSC, non touch |
 | Batteria | **50 Wh**, 3 celle (unica opzione per il 14") |
-| Autonomia | Nessun test misurato trovato. Stima ~11–13 h Wi-Fi: Panther Lake è molto efficiente, ma la batteria è piccola |
+| Autonomia | Nessun test misurato della B3 G2. **Stima ~9–11 h Wi-Fi**, basata sul ThinkBook 14 G9 (Core Ultra 5 325, 48 Wh: 8,7 h misurate da Notebookcheck). ASUS dichiara fino a 20 h, ma con batteria da 70 Wh e configurazione diversa |
 | Alimentatore | 65 W USB-C (20 V / 3,25 A), incluso |
 | Peso / dimensioni | da 1,45 kg · 315,1 × 226,8 × 10,5–19,0 mm |
 | Porte | 1× Thunderbolt 4 (USB4, display + ricarica), 1× USB-C 10 Gbps (display + ricarica), 2× USB-A 5 Gbps, HDMI 2.1, **RJ45 Gigabit**, lettore microSD, jack 3,5 mm |
@@ -65,8 +84,8 @@ Dopo l'ammissione degli Intel Core Ultra serie 3, ho cercato modelli con **RAM D
 | CPU / RAM | Core Ultra 5 325 · 16 GB DDR5 SO-DIMM, 1 slot libero, max 64 GB (dato negozio) |
 | Display | 16" WUXGA IPS |
 | Porte / wireless | Come il 14": Thunderbolt 4, USB-C, 2× USB-A, HDMI 2.1, RJ45, microSD · Wi-Fi 7, BT 6 |
-| Da verificare | Batteria (Wh), peso, numero di slot M.2 |
-| Nota | Più grande e pesante del 14", senza vantaggi per i requisiti: **il 14" è preferibile** |
+| Batteria / peso / slot | **50 Wh** (scheda ASUS Italia; ASUS dichiara 19 h con una batteria da 63 Wh in altri mercati) · da **1,83 kg** · 2 slot SO-DIMM (max 96 GB) · SSD M.2 2280 + slot liberi 2280 e 2230 |
+| Nota | Più grande e pesante del 14", con la stessa batteria: **il 14" è preferibile** |
 
 ### Altri Panther Lake visti e scartati (2026-11-11)
 
@@ -285,6 +304,11 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 ---
 
 ## Fonti (rilevazione 2026-11-10 / 2026-11-11)
+
+**Verifica autonomia ExpertBook B3 G2 (2026-11-11)**
+- Notebookcheck: [Dell 14S DS14260 (tabella di confronto con il ThinkBook 14 G9 IPL Core Ultra 5 325: 8,7 h)](https://www.notebookcheck.net/Dell-14S-DS14260-review-As-powerful-as-an-XPS-14.1366869.0.html)
+- ASUS: [ExpertBook B3 G2 14" Intel (US, 20 h con 70 Wh)](https://www.asus.com/us/laptops/for-work/expertbook/asus-expertbook-b3-g2-14-intel/) · [ExpertBook B3 G2 16" Intel (19 h con 63 Wh)](https://www.asus.com/me-en/laptops/for-work/expertbook/asus-expertbook-b3-g2-16-intel/) · [specifiche 16" Italia (50 Wh)](https://www.asus.com/it/laptops/for-work/expertbook/asus-expertbook-b3-g2-16-intel/techspec/)
+- Altre: [ngxptech, recensione senza misure](https://ngxptech.com/asus-expertbook-b3-g2-ai-copilot-plus-review/) · [HardwareLuxx, B3 generazione precedente](https://www.hardwareluxx.de/community/threads/1373455)
 
 **Aggiunte nella ricerca n. 6 (2026-11-11)**
 - Giannone Computers: [ExpertBook B3 G2 14" B3405CAA-LY0285X](https://shop.giannonecomputers.it/catalogo-prodotti/notebook-e-tablet/notebook-e-workstation-portatili/2382-notebook/p/1-b3405caa-ly285x-expertbook-b3-series-con-alimentatore) · [ExpertBook B3 G2 16" B3605CAA-MB0018X](https://shop.giannonecomputers.it/catalogo-prodotti/notebook-e-tablet/notebook-e-workstation-portatili/2382-notebook/p/1-b3605caa-mb018x-expertbook-b3-series-con-alimentatore)
