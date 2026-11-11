@@ -1,12 +1,31 @@
 # Elenco offerte laptop — minimo Ryzen AI 7 350, RAM/SSD espandibili
 
-**Ultimo aggiornamento:** 2026-11-11 · **Ricerca n.** 4
+**Ultimo aggiornamento:** 2026-11-11 · **Ricerca n.** 5
 **Requisiti:** CPU **minimo Ryzen AI 7 350** (8 core Zen 5 + NPU 50 TOPS; vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · **solo grafica integrata** · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
 **Vincoli:** solo negozi italiani · **max 1.200 €** IVA e spedizione incluse · **pagabile con Carta del Docente** (no marketplace).
 
 > ⏳ **Quando si potrà comprare:** l'utente riceve la Carta **per la prima volta** (2026/27), quindi può comprare un notebook. La Carta 2026/27 però **non è ancora attiva**: il decreto è atteso entro il 30/01/2027. Fino ad allora la ricerca è in **monitoraggio**: si seguono prezzi e disponibilità, ma l'acquisto con il buono avverrà dopo l'attivazione (verosimilmente febbraio–marzo 2027).
 
 ---
+
+## Esito della ricerca n. 5 — Amazon.it (2026-11-11)
+
+Ricerca su Amazon.it con il filtro "venditore: Amazon" (l'unico caso in cui si può usare la Carta) per Ryzen AI 7 350 / 450 / 9 365–370 e per i modelli noti con SO-DIMM. **Nessuna offerta valida.**
+
+| Modello (ASIN) | CPU | Prezzo | Venditore | Esito |
+|---|---|---|---|---|
+| HP OmniBook 5 16-ag1004s (B0G6LHZ9N3) | Ryzen AI 7 350 | 952,07 € | Amazon | ❌ 24 GB **LPDDR5X saldata** |
+| HP OmniBook X Flip 14 (B0DYKVHN9S) | Ryzen AI 7 350 | 1.133,60 € | Amazon | ❌ 16 GB **LPDDR5X saldata**, 2-in-1 |
+| HP OmniBook 5 16 OLED 16-bp0000slx (B0GQZMJT9H) | Ryzen AI 7 445 (6 core) | 799,90 € | Amazon | ❌ CPU sotto il 350 e RAM saldata |
+| HP OmniBook 7 14-kh0000slx (B0GQZH1KLV) | Ryzen AI 7 445 (6 core) | 1.199,99 € | Amazon | ❌ CPU sotto il 350 e RAM saldata |
+| HP OmniBook 7 Aero 13 (B0H2ZMFLMW) | Ryzen AI 5 340 | 899,99 € | Amazon | ❌ CPU e RAM saldata |
+| Lenovo IdeaPad Slim 5 16" (B0H6XPQYMW) | Ryzen AI 7 445 (6 core) | 949,00 € | Amazon | ❌ CPU sotto il 350 |
+| ASUS Vivobook 14 M1407KA (B0FPNP21SJ) | Ryzen AI 7 350 | 999,90 € | **Giannone Computers** (venditore terzo) | ❌ Su Amazon non vale la Carta; sul sito Giannone costa 899 € |
+| Lenovo IdeaPad Slim 5 14AKP10 83HX002EGE (B0F9SNPLDT) | Ryzen AI 7 350 | 1.288,29 € | TechPoint1111 (terzo) | ❌ Venditore terzo, sopra il tetto, tastiera DE |
+| ThinkPad T14 Gen 7 AMD, EliteBook 8 G1a/G2a, ThinkPad P14s | Ryzen AI 7 (PRO) 350/450 | 1.634 € – 3.800 € | terzi | ❌ Sopra il tetto, spesso SKU esteri |
+| Gigabyte Aero X16, Acer Nitro 18, HP Omen MAX 16 | Ryzen AI 7 350 | 1.508 € – 2.119 € | vari | ❌ GPU dedicata |
+
+**Conclusione:** Amazon (venduto da Amazon) vende solo portatili consumer con RAM saldata con questa CPU. Va ricontrollato solo come monitoraggio, ad esempio nei saldi.
 
 ## Esito della ricerca n. 4 (2026-11-11)
 
@@ -195,6 +214,9 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 ---
 
 ## Fonti (rilevazione 2026-11-10 / 2026-11-11)
+
+**Aggiunte nella ricerca n. 5 (2026-11-11)**
+- Amazon.it: [ricerca "Ryzen AI 7 350", venditore Amazon](https://www.amazon.it/s?k=notebook+%22Ryzen+AI+7+350%22&i=computers&rh=p_6%3AA11IL2PNWYJU7H) · [OmniBook 5 16-ag1004s](https://www.amazon.it/dp/B0G6LHZ9N3) · [OmniBook X Flip](https://www.amazon.it/dp/B0DYKVHN9S) · [Vivobook 14 M1407KA (Giannone su Amazon)](https://www.amazon.it/dp/B0FPNP21SJ)
 
 **Aggiunte nella ricerca n. 4 (2026-11-11)**
 - Giannone Computers: [shop](https://shop.giannonecomputers.it/) · [modalità di pagamento (Carta del Docente)](https://shop.giannonecomputers.it/modalita-di-pagamento) · [ricerca ExpertBook](https://shop.giannonecomputers.it/index.php?route=product/search&search=ExpertBook&source=nuh&category_id=0&limit=100) · [ricerca G2a](https://shop.giannonecomputers.it/index.php?route=product/search&search=G2a&source=nuh&category_id=0&limit=100)

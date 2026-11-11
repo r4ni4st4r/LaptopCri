@@ -4,7 +4,7 @@
 > Ordine di lettura per ripartire: [CLAUDE.md](../CLAUDE.md) → questo file → [elencoOfferte.md](elencoOfferte.md).
 > **Questo file è il punto di partenza**: le nuove ricerche online cercano solo novità rispetto allo stato descritto qui (sezioni 4, 7 e 9).
 
-**Ultimo aggiornamento:** 2026-11-11 (sessione 2, ricerca n. 4)
+**Ultimo aggiornamento:** 2026-11-11 (sessione 2, ricerche n. 4–5)
 
 ---
 
@@ -38,6 +38,7 @@ Cerco un portatile con **almeno Ryzen AI 7 350**, **solo grafica integrata**, RA
 | 2026-11-10 | n. 3 | **CPU minima Ryzen AI 7 350** (rigida). Esclusi ExpertBook PM3406CHA (8840HS), ProBook, E14 Gen 7, IdeaPad 16" con AI 5 340. IdeaPad esaurito online; con CAP di Genova il ritiro in negozio è disattivato |
 | 2026-11-10 | — | Creato il repository git: i file `.md` sono la fonte primaria |
 | 2026-11-11 | n. 4 | Note dell'amica integrate: Amazon.it accetta la Carta (solo venduto e spedito da Amazon); aggiunto **Giannone Computers**; **IdeaPad Slim 5 non disponibile in tutta Italia** (verificato dall'utente) → archiviato; Euronics e Reware senza modelli idonei (verificato dall'utente). Proposta GPU dedicata **respinta**. Scoperto il **vincolo dei 4 anni** (finestra hardware chiusa il 31/08/2026 per chi aveva già la Carta); l'utente conferma che è la **prima erogazione** → può comprare dopo l'attivazione della Carta 2026/27. Euronics accetta la Carta (pagina ufficiale). Giannone: unico modello idoneo ≤ 1.200 € è il Vivobook 14 M1407KA a 899 € |
+| 2026-11-11 | n. 5 | **Amazon.it esplorato** (solo venduto da Amazon): con Ryzen AI 7 350 ci sono solo HP OmniBook 5 16 e OmniBook X Flip, entrambi con **LPDDR5X saldata** → nessuna offerta valida. I modelli con SO-DIMM sono venduti solo da terzi (es. Vivobook 14 M1407KA da Giannone a 999,90 € su Amazon, contro 899 € sul suo sito) |
 
 ## 4. Situazione attuale e candidati
 
@@ -54,7 +55,7 @@ Cerco un portatile con **almeno Ryzen AI 7 350**, **solo grafica integrata**, RA
 | Negozio | Esito | Dettagli utili |
 |---|---|---|
 | **Giannone Computers** | **Accetta** (anche online) | Asus Gold Store, Modica (RG), tel. 0932 906688. Shop: shop.giannonecomputers.it, pagamenti: carta, PayPal, Klarna, bonifico, Carta del Docente. Catalogo ampio (ASUS, HP, Lenovo, Acer) |
-| **Amazon.it** | **Accetta** (confermato dall'utente) | Solo prodotti nuovi **venduti e spediti da Amazon**. **Non ancora esplorato** |
+| **Amazon.it** | **Accetta** (confermato dall'utente) | Solo prodotti nuovi **venduti e spediti da Amazon**. Esplorato il 2026-11-11: con Ryzen AI 7 350 vende solo HP OmniBook con RAM saldata → **nessun modello idoneo**. Filtro venditore Amazon nell'URL: `&rh=p_6%3AA11IL2PNWYJU7H` |
 | **Euronics** | **Accetta** (pagina ufficiale) | Online: un buono per ordine, differenza con carta o PayPal; in negozio con il buono. Nessun modello idoneo al 2026-11-11 (utente) |
 | **Unieuro** | Accetta (secondo le guide 2026) | Pagamento misto e promo da chiedere in negozio. Prodotti esauriti = niente ritiro in negozio online |
 | **MediaWorld** | Accetta **solo** prodotti "venduti e spediti da MediaWorld" | **Quasi tutti i notebook business sono di venditori terzi del marketplace** → niente Carta |
@@ -96,6 +97,7 @@ Cerco un portatile con **almeno Ryzen AI 7 350**, **solo grafica integrata**, RA
 ## 8. Come cercare in modo efficiente (note tecniche per la prossima sessione)
 
 - **Giannone Computers**: i prodotti del distributore hanno come nome la **serie + codice** (es. "Expertbook PM3 Series", "1_PM366CKA-MB184X"); quelli con prefisso `2_` hanno la descrizione completa. La ricerca funziona per **nome serie**, non per CPU né per codice: `https://shop.giannonecomputers.it/index.php?route=product/search&search=<testo>&source=nuh&category_id=0&limit=100`. Parole utili: `ExpertBook`, `G2a`, `G1a`, `ProBook`, `EliteBook`, `ThinkPad`, `Vivobook`, `Zenbook`. Mostra prezzi IVA inclusa ed esclusa.
+- **Amazon.it**: aggiungere `&i=computers&rh=p_6%3AA11IL2PNWYJU7H` alla ricerca per vedere solo i prodotti venduti da Amazon. Nella pagina prodotto (`/dp/<ASIN>`) il riquadro "Spedizione / Venditore" indica chi vende, e la tabella tecnica riporta "RAM Memory Technology" (LPDDR5x = saldata).
 - **IT-Partners** (Shopify): `https://www.it-partners.it/it-it/search/suggest.json?q=<testo>&resources[type]=product&resources[limit]=10`; scheda con `/it-it/products/<handle>.js`.
 - **MediaWorld**: nella pagina prodotto cercare "Venduto e spedito da …". Se manca il nome di un venditore terzo, è venduto da MediaWorld. Il prezzo è nel JSON `"price"`.
 - **Unieuro**: specifiche nel JSON della pagina prodotto (coppie `"featureValues":[{"value":…}],"name":…`). Ricerca: `/online/products?q=<testo>`.
@@ -109,7 +111,7 @@ Cerco un portatile con **almeno Ryzen AI 7 350**, **solo grafica integrata**, RA
 - [ ] **Utente**: entrare nell'Area Docenti (SPID/CIE) e consultare l'elenco esercenti "Hardware e Software" in provincia di Genova; annotare eventuali negozi fisici senza sito.
 - [ ] **Utente**: quando esce il decreto 2026/27 (entro il 30/01/2027), verificare l'attivazione della Carta e l'importo.
 - [ ] **Utente**: chiedere a Giannone Computers un preventivo per **ExpertBook P3 PM3406CKA** (14", Ryzen AI 7 350) o PM3606CKA sotto i 1.200 € con pagamento tramite Carta del Docente (è un Asus Gold Store).
-- [ ] Esplorare **Amazon.it** (solo venduto e spedito da Amazon) per modelli con Ryzen AI 7 350/450 e SO-DIMM.
+- [ ] Ricontrollare **Amazon.it** solo come monitoraggio (saldi): al 2026-11-11 nessun modello idoneo venduto da Amazon.
 - [ ] Verificare la scheda completa ASUS del Vivobook 14 M1407KA-LY053W (batteria, slot M.2, peso).
 - [ ] Monitorare periodicamente i modelli della sezione 7 nei negozi accreditati (soprattutto saldi di gennaio 2027).
 - [x] ~~Chiamare i negozi Unieuro per l'IdeaPad~~: non disponibile in tutta Italia (utente, 2026-11-11).
