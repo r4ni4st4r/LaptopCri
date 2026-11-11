@@ -12,6 +12,7 @@ Lingua di lavoro: **italiano**. Mercato: **solo negozi italiani, prezzi in € I
 | 1 | `CLAUDE.md` | Regole: requisiti, vincoli, CPU ammesse, criteri di punteggio, negozi validi |
 | 2 | `data/statoRicerca.md` | **Punto di partenza**: stato attuale, decisioni prese, cosa resta da fare, modelli da tenere d'occhio, trappole note |
 | 3 | `data/elencoOfferte.md` | Ultima classifica valida, con schede tecniche, prezzi datati, esclusi e fonti web |
+| 4 | `data/processori.md` | Analisi di riferimento sui processori per laptop: 10 processori per longevità, autonomia e multimedia/design senza GPU dedicata. Da consultare quando si valuta una CPU nuova o si discute un allargamento del vincolo CPU |
 
 **Procedura obbligatoria per ogni nuova sessione:**
 1. `git pull`, poi leggere i tre file nell'ordine indicato. **Non si rifanno da capo** ricerche già documentate e non si rimettono in discussione decisioni già registrate, a meno che l'utente lo chieda.
@@ -29,7 +30,7 @@ Se un'informazione trovata online contraddice un file, si verifica, si aggiorna 
 
 | Requisito | Priorità | Note |
 |---|---|---|
-| CPU **minimo AMD Ryzen AI 7 350** (vincolo rigido, pensato per durare nel tempo) | Obbligatoria | Vedi "CPU ammesse" sotto. Nulla al di sotto del Ryzen AI 7 350 |
+| CPU **minimo livello Ryzen AI 7 350** (vincolo rigido, pensato per durare nel tempo): AMD Ryzen AI 7 350 o Intel Core Ultra serie 3 "Panther Lake" equivalente | Obbligatoria | Vedi "CPU ammesse" sotto. Nulla al di sotto di questo livello |
 | GPU dedicata | **Esclusa: solo grafica integrata** | iGPU Radeon 840M/860M sufficiente. I portatili con GPU dedicata (gaming/creator con RTX) **non si considerano**. Il 2026-11-11 è stata proposta l'apertura alla dGPU per allargare il campo, ma l'utente l'ha **respinta** |
 | Affidabilità | Alta | Preferire linee business (ThinkPad, EliteBook/ProBook, ExpertBook), garanzia lunga, chassis robusto, aggiornamenti BIOS |
 | Autonomia | Alta | Basarsi su test misurati (Notebookcheck Wi-Fi websurfing v1.3), non sulle dichiarazioni del produttore |
@@ -41,12 +42,14 @@ Se un'informazione trovata online contraddice un file, si verifica, si aggiorna 
 
 | Ammesse ✅ | Escluse ❌ (anche se "equivalenti" in multi-core) |
 |---|---|
-| Ryzen AI 7 350 / AI 7 PRO 350 (8C/16T Zen 5, NPU 50 TOPS) | Ryzen AI 5 340 / PRO 340 (6C), Ryzen AI 5 330 (4C) |
-| Ryzen AI 7 PRO 360, Ryzen AI 9 365 / HX 370 / HX 375 | Ryzen AI 7 345, Ryzen AI 7 445 (6C), Ryzen AI 5 430/435/440 |
-| Ryzen AI 7 450 / AI 7 PRO 450 e superiori Ryzen AI 400 (≥ 8 core) | Tutta la serie Zen 4: Ryzen 200 (220/230/250), 8840HS/U, 7000/8000 |
+| **AMD** Ryzen AI 7 350 / AI 7 PRO 350 (8C/16T Zen 5, NPU 50 TOPS) | Ryzen AI 5 340 / PRO 340 (6C), Ryzen AI 5 330 (4C) |
+| **AMD** Ryzen AI 7 PRO 360, Ryzen AI 9 365 / HX 370 / HX 375 | Ryzen AI 7 345, Ryzen AI 7 445 (6C), Ryzen AI 5 430/435/440 |
+| **AMD** Ryzen AI 7 450 / AI 7 PRO 450 e superiori Ryzen AI 400 (≥ 8 core) | Tutta la serie Zen 4: Ryzen 200 (220/230/250/260), 8840HS/U, 7000/8000 |
+| **Intel** Core Ultra serie 3 "Panther Lake" con **≥ 8 core**: Core Ultra 5 **325 / 335**, Core Ultra 7 **355 / 365 / 356H** e superiori, serie X (X5 338H, X7 358H/368H, X9 388H). Ammessi dal **2026-11-11** su decisione dell'utente (vedi `data/processori.md`) | **Intel** Core 3/5/7 serie 300 senza "Ultra" ("Wildcat Lake", es. Core 7 350, Core 5 320), Core Ultra 200U/H "Arrow Lake" (es. 225U, 255U, 255H), Lunar Lake 200V (CPU più debole; comunque RAM saldata) |
+| | Core Ultra serie 3 con meno di 8 core o non verificati (es. Core Ultra 5 322 / 332): ammessi solo dopo aver controllato core e thread sul sito Intel |
 | | Qualsiasi CPU senza NPU Copilot+ |
 
-Regola: **8 core Zen 5 (o più recenti) + NPU ≥ 50 TOPS**. Nel dubbio verificare core/thread sul sito AMD.
+Regola: **8 core di ultima generazione (AMD Zen 5 o Intel Panther Lake) + NPU Copilot+ (≥ 47 TOPS; il Core Ultra 5 325 ne ha 47)**. Nota: il Core Ultra 5 325 ha 8 core e 8 thread (senza Hyper-Threading), quindi nei carichi multi-thread pesanti è un po' sotto il Ryzen AI 7 350 (16 thread), ma ha un'autonomia migliore. È stato ammesso esplicitamente dall'utente. Nel dubbio verificare core e thread sul sito AMD o Intel (ark.intel.com). Per Intel ricontrollare sempre che la RAM sia **SO-DIMM**: molti portatili Panther Lake hanno LPDDR5X saldata.
 
 ## Vincoli di acquisto (OBBLIGATORI — un'offerta che non li rispetta non entra in classifica)
 
@@ -82,7 +85,7 @@ Fonte da consultare sempre per nuovi esercenti: l'**elenco degli esercenti adere
 
 | Criterio | Punti | Come si assegna |
 |---|---|---|
-| CPU | 10 | 10 = Ryzen AI 7 350 / PRO 350 / AI 7 450; 10 anche per CPU superiori (nessun bonus: la GPU/CPU extra non serve). CPU sotto il 350 = **esclusione**, non punteggio basso |
+| CPU | 10 | 10 = Ryzen AI 7 350 / PRO 350 / AI 7 450 o Intel Core Ultra 5 325 / 7 355 e superiori; 10 anche per CPU superiori (nessun bonus: la GPU/CPU extra non serve). CPU sotto il 350 = **esclusione**, non punteggio basso |
 | RAM | 20 | 20 = DDR5 SO-DIMM 2 slot con 1 libero (max ≥ 64 GB); 15 = 2 slot ma entrambi occupati (2×8); 10 = 1 slot + saldata; 0 = tutta saldata (esclusa) |
 | Storage | 15 | 15 = 2 slot M.2; 11–12 = 1 slot M.2 2280 sostituibile; meno se 2230/2242 o non sostituibile |
 | Autonomia | 25 | Da test Wi-Fi Notebookcheck: ≥ 15 h = 25; 14 h ≈ 22; 13 h ≈ 21; 12 h ≈ 18; 10 h ≈ 14. Se non misurata: stima da Wh (≈ 0,2 h/Wh per Krackan Point) con penalità di incertezza |
@@ -118,6 +121,7 @@ I file `.md` di questo progetto, versionati in un **repository git**, sono l'**u
 - `CLAUDE.md`: questo file, con requisiti, vincoli, criteri di punteggio e regole di lavoro.
 - `data/statoRicerca.md`: **diario e passaggio di consegne**, con riepilogo, cronologia delle decisioni, negozi verificati, trappole, modelli da tenere d'occhio, tecniche di ricerca e cosa resta da fare.
 - `data/elencoOfferte.md`: **archivio delle offerte**, con classifica, scheda tecnica completa di ogni laptop, esclusi con motivo e fonti.
+- `data/processori.md`: **analisi dei processori** (non è una classifica), con i 10 processori consigliati, il riepilogo comparativo, gli esclusi e le conseguenze per i vincoli del progetto. Va aggiornato quando escono nuove generazioni di CPU.
 
 ### Formato di ogni scheda in `data/elencoOfferte.md`
 

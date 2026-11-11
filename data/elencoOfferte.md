@@ -1,12 +1,83 @@
 # Elenco offerte laptop — minimo Ryzen AI 7 350, RAM/SSD espandibili
 
-**Ultimo aggiornamento:** 2026-11-11 · **Ricerca n.** 5
-**Requisiti:** CPU **minimo Ryzen AI 7 350** (8 core Zen 5 + NPU 50 TOPS; vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · **solo grafica integrata** · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
+**Ultimo aggiornamento:** 2026-11-11 · **Ricerca n.** 6
+**Requisiti:** CPU **minimo livello Ryzen AI 7 350**: AMD Ryzen AI 7 350/450 o, dal 2026-11-11, **Intel Core Ultra serie 3 (Panther Lake) ≥ 8 core** come Core Ultra 5 325 / 7 355 (vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · **solo grafica integrata** · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
 **Vincoli:** solo negozi italiani · **max 1.200 €** IVA e spedizione incluse · **pagabile con Carta del Docente** (no marketplace).
 
 > ⏳ **Quando si potrà comprare:** l'utente riceve la Carta **per la prima volta** (2026/27), quindi può comprare un notebook. La Carta 2026/27 però **non è ancora attiva**: il decreto è atteso entro il 30/01/2027. Fino ad allora la ricerca è in **monitoraggio**: si seguono prezzi e disponibilità, ma l'acquisto con il buono avverrà dopo l'attivazione (verosimilmente febbraio–marzo 2027).
 
 ---
+
+## Esito della ricerca n. 6 — Intel Panther Lake ammessi (2026-11-11)
+
+Dopo l'ammissione degli Intel Core Ultra serie 3, ho cercato modelli con **RAM DDR5 SO-DIMM** ≤ 1.200 € in tutti i negozi accreditati (Giannone, IT-Partners, Amazon venduto da Amazon, Unieuro, Lenovo.com). **Emerge un nuovo candidato principale.**
+
+## Classifica (ricerca n. 6)
+
+| # | Modello | Negozio | Prezzo | CPU | RAM (slot) | SSD (slot) | Batteria / autonomia | Peso | Punti |
+|---|---|---|---|---|---|---|---|---|---|
+| 1 | **ASUS ExpertBook B3 G2 14" B3405CAA-LY0285X** | **Giannone Computers** | **1.154,85 €** | Intel Core Ultra 5 325 | 16 GB DDR5 **SO-DIMM**, 1 slot libero, **max 96 GB** | 512 GB + **2° slot M.2 2280 + slot 2230** | 50 Wh · ~11–13 h stimata | 1,45 kg | **85** |
+| 2 | ASUS ExpertBook B3 G2 16" B3605CAA-MB0018X | Giannone Computers | 1.192,55 € | Intel Core Ultra 5 325 | 16 GB DDR5 SO-DIMM, 1 slot libero, max 64 GB (dato negozio) | 512 GB (slot da verificare) | da verificare · ~10–12 h stimata | n.d. (16") | **82** |
+| 3 | ASUS Vivobook 14 M1407KA-LY053W | Giannone Computers | 899,00 € | Ryzen AI 7 350 | 16 GB **saldati** + 1 slot libero | 512 GB | ~42 Wh · ~7–9 h | ~1,4 kg | **59** |
+| 4 | ASUS Vivobook 16 M1607KA-MB053W | Unieuro | 599,90 € | Ryzen AI 7 350 | metà **saldata** + 1 SO-DIMM | 1 TB | 42 Wh · ~6–8 h | 1,88 kg | **57** |
+
+| # | Modello | CPU /10 | RAM /20 | Storage /15 | Autonomia /25 | Affidabilità /20 | Prezzo /10 | Totale |
+|---|---|---|---|---|---|---|---|---|
+| 1 | ExpertBook B3 G2 14" | 10 | 20 | 15 | 17 | 18 | 5 | **85** |
+| 2 | ExpertBook B3 G2 16" | 10 | 20 | 13 | 16 | 18 | 5 | **82** |
+| 3 | Vivobook 14 M1407KA | 10 | 12 | 11 | 10 | 8 | 8 | **59** |
+| 4 | Vivobook 16 M1607KA | 10 | 10 | 11 | 8 | 8 | 10 | **57** |
+
+**Raccomandazione:** l'**ExpertBook B3 G2 14" (B3405CAA-LY0285X) da Giannone a 1.154,85 €** è oggi la prima offerta che rispetta **tutti** i vincoli **e** i requisiti di qualità: linea business, RAM espandibile fino a 96 GB, due slot SSD aggiuntivi, Thunderbolt 4, MIL-STD 810H e 3 anni di garanzia ASUS. Il punto debole è la batteria da 50 Wh (non ci sono ancora test misurati). Da IT-Partners lo stesso modello costa 1.236,57 €, quindi Giannone è più conveniente.
+
+⏳ Ricorda: con la Carta del Docente si potrà comprare solo **dopo l'attivazione della Carta 2026/27** (entro il 30/01/2027). Il prezzo va ricontrollato in quel momento.
+
+### Scheda: ASUS ExpertBook B3 G2 14" Intel — B3405CAA-LY0285X (MPN 90NX0A01-M009Y0)
+
+| Campo | Valore |
+|---|---|
+| Negozio / venditore | **Giannone Computers** (shop.giannonecomputers.it), venduto da Giannone · Asus Gold Store, Modica (RG), tel. 0932 906688 |
+| Prezzo | **1.154,85 €** IVA inclusa (946,60 € + IVA), "Promo" · rilevato il 2026-11-11 · 55 pezzi "in continuo riassortimento" · spedizione da verificare |
+| Altri prezzi | IT-Partners 1.236,57 € (2026-11-11) |
+| Carta del Docente | Sì: "Carta del Docente" tra i metodi di pagamento dello shop Giannone |
+| CPU | Intel Core Ultra 5 325 (Panther Lake): **8 core / 8 thread**, fino a 4,5 GHz, NPU 47 TOPS (Copilot+) |
+| iGPU | Intel Graphics (Arc, 4 core Xe3) |
+| RAM | **16 GB DDR5 SO-DIMM**, 1 slot libero (dato negozio), **fino a 96 GB** (scheda ASUS) |
+| Storage | 512 GB NVMe PCIe 4.0 M.2 2280 + **slot M.2 2280 (PCIe 4.0/5.0 x4)** + **slot M.2 2230 (PCIe 4.0 x4)** (scheda ASUS) |
+| Display | 14" WUXGA 1920×1200 IPS, antiriflesso, 300 nit, 45% NTSC, non touch |
+| Batteria | **50 Wh**, 3 celle (unica opzione per il 14") |
+| Autonomia | Nessun test misurato trovato. Stima ~11–13 h Wi-Fi: Panther Lake è molto efficiente, ma la batteria è piccola |
+| Alimentatore | 65 W USB-C (20 V / 3,25 A), incluso |
+| Peso / dimensioni | da 1,45 kg · 315,1 × 226,8 × 10,5–19,0 mm |
+| Porte | 1× Thunderbolt 4 (USB4, display + ricarica), 1× USB-C 10 Gbps (display + ricarica), 2× USB-A 5 Gbps, HDMI 2.1, **RJ45 Gigabit**, lettore microSD, jack 3,5 mm |
+| Wireless | Wi-Fi 7 tri-band 2×2, Bluetooth 6.0 |
+| Costruzione | Linea business ExpertBook B3, **MIL-STD 810H (24 test)**, alluminio riciclato in alcune parti, EPEAT Gold, TCO 10 |
+| Garanzia | **3 anni** di garanzia internazionale ASUS (dalla pagina ASUS Italia; verificare con il negozio) |
+| OS | Windows 11 Pro |
+| Pro | Rispetta tutti i vincoli; RAM espandibile fino a 96 GB; 3 slot SSD in totale; Thunderbolt 4; Ethernet; robusto; 3 anni di garanzia; disponibile |
+| Contro | Batteria da 50 Wh; schermo base (300 nit, 45% NTSC); CPU senza Hyper-Threading (multi-thread un po' sotto il Ryzen AI 7 350); iGPU con soli 4 core Xe3 |
+
+### Scheda breve: ASUS ExpertBook B3 G2 16" Intel — B3605CAA-MB0018X (MPN 90NX0A11-M000K0)
+
+| Campo | Valore |
+|---|---|
+| Negozio / prezzo | Giannone Computers, **1.192,55 €** (977,50 € + IVA), 47 pezzi · su Amazon 1.210 € da venditore terzo |
+| CPU / RAM | Core Ultra 5 325 · 16 GB DDR5 SO-DIMM, 1 slot libero, max 64 GB (dato negozio) |
+| Display | 16" WUXGA IPS |
+| Porte / wireless | Come il 14": Thunderbolt 4, USB-C, 2× USB-A, HDMI 2.1, RJ45, microSD · Wi-Fi 7, BT 6 |
+| Da verificare | Batteria (Wh), peso, numero di slot M.2 |
+| Nota | Più grande e pesante del 14", senza vantaggi per i requisiti: **il 14" è preferibile** |
+
+### Altri Panther Lake visti e scartati (2026-11-11)
+
+| Modello | Negozio | Prezzo | Motivo |
+|---|---|---|---|
+| Samsung Galaxy Book6 14"/16" (Core Ultra 5 325 / 7 355) | Amazon (venduto da Amazon), Unieuro | 999–1.099 € | **LPDDR5X saldata** |
+| Lenovo IdeaPad Slim 3 15" (Core Ultra 7 355, SODIMM DDR5, 50 Wh) | Amazon, venditore terzo TECKMARKET | 889 € | Venditore terzo; RAM probabilmente in parte saldata (max 16 GB) |
+| MSI Modern 16S AI+ (Core Ultra 7 355, DDR5) | Amazon | 1.292,50 € | Sopra il tetto |
+| ASUS Zenbook 14 UX3480 / Zenbook S 14 / MSI Prestige 14 / HP OmniBook Ultra (Core Ultra 7 355/356H) | Amazon | 1.299–1.599 € | Sopra il tetto e RAM saldata |
+| ThinkPad E14 Gen 8 Intel (Core Ultra 5 325) | IT-Partners | 1.275,72 € | Sopra il tetto |
+| ExpertBook B3 G2 14" B3405CAA-LY0285X | IT-Partners | 1.236,57 € | Lo stesso modello costa meno da Giannone |
 
 ## Esito della ricerca n. 5 — Amazon.it (2026-11-11)
 
@@ -214,6 +285,11 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 ---
 
 ## Fonti (rilevazione 2026-11-10 / 2026-11-11)
+
+**Aggiunte nella ricerca n. 6 (2026-11-11)**
+- Giannone Computers: [ExpertBook B3 G2 14" B3405CAA-LY0285X](https://shop.giannonecomputers.it/catalogo-prodotti/notebook-e-tablet/notebook-e-workstation-portatili/2382-notebook/p/1-b3405caa-ly285x-expertbook-b3-series-con-alimentatore) · [ExpertBook B3 G2 16" B3605CAA-MB0018X](https://shop.giannonecomputers.it/catalogo-prodotti/notebook-e-tablet/notebook-e-workstation-portatili/2382-notebook/p/1-b3605caa-mb018x-expertbook-b3-series-con-alimentatore)
+- ASUS: [ExpertBook B3 G2 14" Intel, specifiche](https://www.asus.com/it/laptops/for-work/expertbook/asus-expertbook-b3-g2-14-intel/techspec/) · Annuncio: [Funkykit, ExpertBook B3 G2](https://www.funkykit.com/news/asus-unveils-expertbook-b3-g2-powered-by-intel-core-ultra-series-3-cpus/) · [Notebookcheck, ExpertBook B3405](https://www.notebookcheck.net/Asus-ExpertBook-B3405.1179849.0.html)
+- Amazon.it: [Samsung Galaxy Book6 Ultra 7 355](https://www.amazon.it/dp/B0GNSCTDXC) · [Galaxy Book6 Ultra 5 325](https://www.amazon.it/dp/B0GZNWVSYF) · [IdeaPad Slim 3 Ultra 7 355](https://www.amazon.it/dp/B0H75V5GNG)
 
 **Aggiunte nella ricerca n. 5 (2026-11-11)**
 - Amazon.it: [ricerca "Ryzen AI 7 350", venditore Amazon](https://www.amazon.it/s?k=notebook+%22Ryzen+AI+7+350%22&i=computers&rh=p_6%3AA11IL2PNWYJU7H) · [OmniBook 5 16-ag1004s](https://www.amazon.it/dp/B0G6LHZ9N3) · [OmniBook X Flip](https://www.amazon.it/dp/B0DYKVHN9S) · [Vivobook 14 M1407KA (Giannone su Amazon)](https://www.amazon.it/dp/B0FPNP21SJ)
