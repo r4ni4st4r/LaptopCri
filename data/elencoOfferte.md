@@ -1,36 +1,61 @@
 # Elenco offerte laptop — minimo Ryzen AI 7 350, RAM/SSD espandibili
 
-**Ultimo aggiornamento:** 2026-11-10 · **Ricerca n.** 3
-**Requisiti:** CPU **minimo Ryzen AI 7 350** (8 core Zen 5 + NPU 50 TOPS; vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · nessuna GPU dedicata · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
+**Ultimo aggiornamento:** 2026-11-11 · **Ricerca n.** 4
+**Requisiti:** CPU **minimo Ryzen AI 7 350** (8 core Zen 5 + NPU 50 TOPS; vedi "CPU ammesse" in [CLAUDE.md](../CLAUDE.md)) · **solo grafica integrata** · affidabile · buona autonomia · 16 GB DDR5 espandibile · SSD 512 GB–1 TB espandibile · schermo non prioritario.
 **Vincoli:** solo negozi italiani · **max 1.200 €** IVA e spedizione incluse · **pagabile con Carta del Docente** (no marketplace).
 
-> ⚠️ **Prima di comprare:** con la Carta del Docente l'hardware si può acquistare solo alla prima erogazione e poi ogni 4 anni (DM 59/2026). Verifica su cartadeldocente.istruzione.it. Il buono 2025/26 vale 383 €: la differenza la paghi a parte.
+> ⏳ **Quando si potrà comprare:** l'utente riceve la Carta **per la prima volta** (2026/27), quindi può comprare un notebook. La Carta 2026/27 però **non è ancora attiva**: il decreto è atteso entro il 30/01/2027. Fino ad allora la ricerca è in **monitoraggio**: si seguono prezzi e disponibilità, ma l'acquisto con il buono avverrà dopo l'attivazione (verosimilmente febbraio–marzo 2027).
 
 ---
 
-## Esito della ricerca n. 3
+## Esito della ricerca n. 4 (2026-11-11)
 
-Ho controllato tutti i negozi italiani che accettano la Carta del Docente: Unieuro, MediaWorld (solo prodotti venduti da MediaWorld), Lenovo.com, IT-Partners e Campustore. Con CPU ≥ Ryzen AI 7 350, RAM SO-DIMM e prezzo ≤ 1.200 € **c'è una sola offerta valida**: l'IdeaPad Slim 5 14AKP10 su Unieuro, che però al momento è **esaurita online**.
+- **L'IdeaPad Slim 5 14AKP10 non è più un'opzione**: non è disponibile da Unieuro, neanche nei negozi fisici in tutta Italia (verificato dall'utente). Passa in archivio.
+- **Euronics e Reware**: nessun modello con CPU ammessa (verificato dall'utente). Euronics accetta la Carta del Docente (pagina ufficiale).
+- **Giannone Computers** (accetta la Carta, anche online): unico modello con CPU ammessa sotto i 1.200 € è l'**ASUS Vivobook 14 M1407KA a 899 €**. Ha l'ExpertBook P3 16" PM3606CKA a 1.299 € (sopra il tetto).
+- **Amazon.it** (solo venduto e spedito da Amazon): da controllare nella prossima ricerca.
+- **Elenco esercenti del Ministero**: consultabile solo dopo il login SPID/CIE nell'Area Docenti. Non posso farlo io: va fatto dall'utente (vedi statoRicerca.md).
+
+Oggi **non c'è nessuna offerta davvero consigliabile**: le due rimaste rispettano i vincoli formali ma hanno batteria piccola e RAM in parte saldata. Visto che l'acquisto avverrà nel 2027, conviene **monitorare** i modelli migliori, soprattutto ExpertBook P3 ed EliteBook 8 G1a, aspettando che scendano sotto i 1.200 € in un negozio accreditato.
 
 ## Classifica
 
 | # | Modello | Negozio | Prezzo | CPU | RAM (slot) | SSD (slot) | Batteria / autonomia | Peso | Punti |
 |---|---|---|---|---|---|---|---|---|---|
-| 1 ⚠️ | **Lenovo IdeaPad Slim 5 14AKP10** (83HX006FIX) | Unieuro | **799,00 €** (listino 1.099 €) | **Ryzen AI 7 350** | **32 GB** DDR5-5600 SO-DIMM, 2 slot (pieni) | 1 TB + **2° slot M.2 2280 libero** | 60 Wh · ~12–13 h stimata | 1,47 kg | **84** |
+| 1 | ASUS Vivobook 14 M1407KA-LY053W | **Giannone Computers** | **899,00 €** (listino 949 €) | Ryzen AI 7 350 | 16 GB **saldati** + 1 slot SO-DIMM **libero** (max 32 GB) | 512 GB, 1 slot M.2 (da verificare) | ~42 Wh (da verificare) · ~7–9 h stimata | ~1,4 kg (da verificare) | **59** |
 | 2 | ASUS Vivobook 16 M1607KA-MB053W | Unieuro | 599,90 € (listino 999 €) | Ryzen AI 7 350 | 16 GB, metà **saldata** + 1 SO-DIMM | 1 TB, 1 slot M.2 | **42 Wh** · ~6–8 h | 1,88 kg | **57** |
 
-⚠️ = "Non disponibile" online al 2026-11-10.
-
-Il Vivobook 16 è in classifica solo perché rispetta formalmente CPU, prezzo e negozio. **Non lo consiglio**: batteria da 42 Wh, RAM in parte saldata, linea economica.
+Entrambi sono in classifica solo perché rispettano formalmente CPU, prezzo e negozio. **Nessuno dei due è consigliato** come acquisto definitivo: batteria piccola, RAM in parte saldata, linea economica.
 
 ### Dettaglio punteggi
 
 | # | Modello | CPU /10 | RAM /20 | Storage /15 | Autonomia /25 | Affidabilità /20 | Prezzo /10 | Totale |
 |---|---|---|---|---|---|---|---|---|
-| 1 | IdeaPad Slim 5 14AKP10 | 10 | 17 | 15 | 19 | 13 | 10 | **84** |
+| 1 | Vivobook 14 M1407KA | 10 | 12 | 11 | 10 | 8 | 8 | **59** |
 | 2 | Vivobook 16 M1607KA | 10 | 10 | 11 | 8 | 8 | 10 | **57** |
 
-### Quanto vale l'offerta Unieuro (confronto prezzi dello stesso SKU 83HX006FIX)
+### Scheda rapida: ASUS Vivobook 14 M1407KA-LY053W (Giannone Computers)
+
+| Campo | Valore |
+|---|---|
+| Negozio / venditore | **Giannone Computers** (shop.giannonecomputers.it), venduto da Giannone · Asus Gold Store, Modica (RG), tel. 0932 906688 |
+| Prezzo | **899,00 €** IVA inclusa (listino 949 €) · rilevato il 2026-11-11 · spedizione da verificare |
+| Carta del Docente | Sì: "Carta del Docente" tra i metodi di pagamento dello shop |
+| CPU | AMD Ryzen AI 7 350, 8C/16T, Radeon 860M, NPU 50 TOPS |
+| RAM | 16 GB DDR5 **saldati** + **1 slot SO-DIMM libero** (fino a 32 GB totali, dal sito ASUS) |
+| Storage | 512 GB NVMe M.2 (numero di slot da verificare) |
+| Display | 14" WUXGA 1920×1200 IPS |
+| Batteria | ~42 Wh, 3 celle (da scheda rivenditore di uno SKU simile; **da verificare** sulla scheda ASUS) |
+| Autonomia | ~7–9 h stimata; ASUS dichiara "fino a 23 ore" (dato di marketing, non attendibile) |
+| Alimentatore / peso / porte | da verificare |
+| Wireless | Wi-Fi 6 (da SKU simili) |
+| Costruzione / garanzia | Linea consumer Vivobook · garanzia 2 anni |
+| Pro | CPU giusta, slot RAM libero, venditore accreditato, prezzo sotto il tetto |
+| Contro | Metà RAM saldata, batteria piccola, linea economica, dati tecnici incompleti |
+
+### Archiviato: l'offerta Unieuro sull'IdeaPad Slim 5 14AKP10 (83HX006FIX)
+
+Il 2026-11-11 l'utente ha verificato che il modello **non è disponibile in nessun negozio Unieuro in Italia**. I dati restano qui come riferimento, nel caso torni disponibile.
 
 | Negozio | Prezzo | Disponibilità | Carta del Docente |
 |---|---|---|---|
@@ -66,7 +91,7 @@ Se non si trova, la ricerca va riaperta allargando un vincolo: budget fino a ~1.
 
 ## Schede tecniche
 
-### 1. Lenovo IdeaPad Slim 5 14AKP10 (83HX006FIX) — 84 punti ⚠️
+### Archivio — Lenovo IdeaPad Slim 5 14AKP10 (83HX006FIX) — era 84 punti, non disponibile in Italia (2026-11-11)
 
 | Campo | Valore |
 |---|---|
@@ -120,7 +145,8 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 |---|---|---|---|---|
 | HP EliteBook 8 G1a 14 D76LTET (16/512, 2 slot SO-DIMM, 62 Wh) | Ryzen AI 7 350 | MediaWorld marketplace, MC Distribuzione | 1.117,01 € | Marketplace. **Sarebbe ottimo** (14,2 h misurate su Notebookcheck) |
 | HP EliteBook 8 G1a 14 AD4J5ET (16/512) | Ryzen AI 7 350 | MediaWorld marketplace, TecnoPrice / Yeppon | 1.179,68 € / 1.209,99 € | Marketplace / Yeppon non accetta la Carta |
-| ASUS ExpertBook P3 PM3606CKA-MB0184X (16/1 TB) | Ryzen AI 7 350 | MediaWorld marketplace, TecnoPrice | 1.202,00 € | Marketplace, 2 € sopra il tetto |
+| ASUS ExpertBook P3 PM3606CKA-MB0184X (16/1 TB) | Ryzen AI 7 350 | MediaWorld marketplace, TecnoPrice / **Giannone Computers** | 1.202,00 € / **1.299,00 €** (2026-11-11) | Sopra il tetto. Da Giannone è pagabile con la Carta: **da monitorare** |
+| HP EliteBook 6 G2a 16 DL5R7AT (16 GB) | Ryzen AI 7 450 | Giannone Computers | 1.535,25 € (2026-11-11) | Sopra il tetto |
 | ASUS ExpertBook P3 PM3406CKA-NZ0021X (16/1 TB) | Ryzen AI 7 350 | MediaWorld marketplace / IT-Partners | 1.208,50 € / 1.274,78 € (esaurito) | Sopra il tetto |
 | ASUS Vivobook 14 M1407KA-LY053W (16/512) | Ryzen AI 7 350 | MediaWorld marketplace, ESSEEFFE COM | 996,14 € | Marketplace; RAM probabilmente in parte saldata |
 | MSI Venture A16 AI+ A3HMG-024IT | Ryzen AI 7 350 | MediaWorld marketplace | 1.299,88 € | Marketplace e sopra il tetto |
@@ -139,6 +165,9 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 | HP ProBook 4 G1a 14 D76JKET | Ryzen 7 250 (Zen 4) | IT-Partners | 1.167,42 € |
 | Lenovo IdeaPad Slim 5a Gen 11 14"/16" | Ryzen AI 5 430 / AI 7 445 (6 core) | Lenovo.com | da 971,51 € |
 | HP ProBook 4 G2a DP9J9AT | Ryzen AI 7 445 (6 core) | MediaWorld marketplace | 1.122,97 € |
+| HP ProBook 4 G2a 14 DP9K0AT | Ryzen AI 5 430 (4 core) | Giannone Computers | 1.191,70 € |
+| ASUS ExpertBook P3 PM3406CHA-LY0022X | Ryzen 7 260 (Zen 4) | Giannone Computers | 1.049,00 € |
+| ASUS Zenbook 14 UX3406GA-QL065W | Ryzen AI 7 445 (6 core), RAM saldata | Giannone Computers | 1.199,00 € |
 
 ## Esclusi per RAM saldata
 
@@ -165,7 +194,13 @@ Tutti venduti da **venditori terzi del marketplace MediaWorld**, oppure fuori bu
 
 ---
 
-## Fonti (rilevazione 2026-11-10)
+## Fonti (rilevazione 2026-11-10 / 2026-11-11)
+
+**Aggiunte nella ricerca n. 4 (2026-11-11)**
+- Giannone Computers: [shop](https://shop.giannonecomputers.it/) · [modalità di pagamento (Carta del Docente)](https://shop.giannonecomputers.it/modalita-di-pagamento) · [ricerca ExpertBook](https://shop.giannonecomputers.it/index.php?route=product/search&search=ExpertBook&source=nuh&category_id=0&limit=100) · [ricerca G2a](https://shop.giannonecomputers.it/index.php?route=product/search&search=G2a&source=nuh&category_id=0&limit=100)
+- Euronics: [Utilizza la tua Carta del Docente](https://www.euronics.it/carta-del-docente.html)
+- ASUS: [Vivobook 14 M1407 (RAM 16 GB onboard + slot SO-DIMM)](https://www.asus.com/my/laptops/for-home/vivobook/asus-vivobook-14-m1407/)
+- OrizzonteScuola: [vincolo dei 4 anni dal 31/08/2026](https://www.orizzontescuola.it/carta-del-docente-per-acquisto-pc-tablet-e-software-il-31-agosto-2026-scatta-il-vincolo-dei-quattro-anni/) · Orizzonte Docenti: [Carta 2026/27 e regole quadriennali](https://orizzontedocenti.it/2026/09/01/carta-del-docente-al-via-con-il-nuovo-a-s-2026-27-stop-temporaneo-alla-piattaforma-e-nuove-regole-quadriennali-su-pc-e-tablet/) · Lentepubblica: [Carta 2026/27](https://lentepubblica.it/scuola/carta-docente-2026-2027-importo-requisiti-novita/)
 
 **Negozi**
 - Unieuro: [IdeaPad Slim 5 14AKP10 83HX006FIX](https://www.unieuro.it/online/Notebook/IdeaPad-Slim-5-14AKP10-Copilot-PC-pidLNV83HX006FIX) · [Vivobook 16 M1607KA-MB053W](https://www.unieuro.it/online/Notebook/Vivobook-16-pidASUM1607KAMB053W) · [ricerca Ryzen AI 7 450](https://www.unieuro.it/online/products?q=ryzen%20ai%207%20450)

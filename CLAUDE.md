@@ -30,7 +30,7 @@ Se un'informazione trovata online contraddice un file, si verifica, si aggiorna 
 | Requisito | Priorità | Note |
 |---|---|---|
 | CPU **minimo AMD Ryzen AI 7 350** (vincolo rigido, pensato per durare nel tempo) | Obbligatoria | Vedi "CPU ammesse" sotto. Nulla al di sotto del Ryzen AI 7 350 |
-| GPU dedicata | **Non richiesta** | iGPU Radeon 840M/860M sufficiente; una dGPU è anzi un difetto (consumi, calore) |
+| GPU dedicata | **Esclusa: solo grafica integrata** | iGPU Radeon 840M/860M sufficiente. I portatili con GPU dedicata (gaming/creator con RTX) **non si considerano**. Il 2026-11-11 è stata proposta l'apertura alla dGPU per allargare il campo, ma l'utente l'ha **respinta** |
 | Affidabilità | Alta | Preferire linee business (ThinkPad, EliteBook/ProBook, ExpertBook), garanzia lunga, chassis robusto, aggiornamenti BIOS |
 | Autonomia | Alta | Basarsi su test misurati (Notebookcheck Wi-Fi websurfing v1.3), non sulle dichiarazioni del produttore |
 | RAM 16 GB DDR5 **espandibile** | Obbligatoria | Serve SO-DIMM (ideale 2 slot, 1 libero). RAM saldata (LPDDR5/LPDDR5X) = **esclusione** |
@@ -54,24 +54,29 @@ Regola: **8 core Zen 5 (o più recenti) + NPU ≥ 50 TOPS**. Nel dubbio verifica
 2. **Prezzo massimo 1.200 €** IVA e spedizione incluse. È un tetto rigido: 1.201 € = fuori. Le offerte appena sopra (≤ 1.250 €) si annotano solo in "Quasi in budget".
 3. **Pagabile con la Carta del Docente.** Regole da rispettare:
    - Il negozio deve essere esercente accreditato e il prodotto deve rientrare nella categoria "Hardware e Software" (notebook ammessi).
-   - **Marketplace esclusi**: su MediaWorld vale solo "venduto e spedito da MediaWorld" (i venditori terzi non accettano il buono). Stessa verifica su Unieuro.
+   - **Marketplace esclusi**: su MediaWorld vale solo "venduto e spedito da MediaWorld", su Amazon solo "venduto e spedito da Amazon" (i venditori terzi non accettano il buono). Stessa verifica su Unieuro.
    - Il buono 2025/26 vale **383 €** (DM 59/2026): la differenza va pagata a parte → serve un negozio che consenta il **pagamento misto** (buono + bonifico/carta).
    - Dal 2025/26 l'hardware si può comprare con la Carta **solo alla prima erogazione e poi ogni 4 anni**: l'utente deve verificare di averne diritto sul portale cartadeldocente.istruzione.it.
+   - ⚠️ **PUNTO BLOCCANTE (scoperto il 2026-11-11):** per chi riceveva già la Carta, il 2025/26 era la "prima finestra utile" e **si è chiusa il 31/08/2026**; la prossima sarà nel **2029/30**. Neanche i residui 2025/26, spendibili fino al 31/08/2027, valgono per l'hardware. Fa eccezione solo chi riceve la Carta **per la prima volta nel 2026/27** (es. neoassunti o primi incarichi), ma l'importo e la piattaforma 2026/27 sono attesi entro il 30/01/2027. Fonti: FAQ MIM citate da OrizzonteScuola (2026-06-18) e Orizzonte Docenti (2026-09-01). **Prima di qualsiasi acquisto con la Carta, la situazione personale va verificata sul portale.**
+   - ✅ **Situazione dell'utente (confermata il 2026-11-11):** è la **prima volta** che riceve la Carta del Docente, quindi rientra nell'eccezione e può comprare il notebook nell'anno della prima erogazione (2026/27). **Vincolo di tempo:** la Carta 2026/27 non è ancora attiva (decreto atteso entro il 30/01/2027), quindi l'acquisto con il buono sarà possibile **solo dopo l'attivazione**, verosimilmente tra febbraio e marzo 2027. Fino ad allora la ricerca resta in modalità monitoraggio: si seguono prezzi e disponibilità, ma non si compra.
 4. Indicare sempre per ogni offerta: negozio, venditore effettivo, prezzo, data di rilevazione, disponibilità, modalità d'uso della Carta del Docente.
 
-### Negozi verificati per la Carta del Docente (stato al 2026-11-10)
+### Negozi verificati per la Carta del Docente (stato al 2026-11-11)
+
+Fonte da consultare sempre per nuovi esercenti: l'**elenco degli esercenti aderenti** sul portale ministeriale cartadeldocente.istruzione.it (ricerca per provincia e categoria "Hardware e Software"), compresi i **negozi fisici di Genova** che potrebbero non avere un sito.
 
 | Negozio | Accetta Carta Docente | Come funziona / limiti |
 |---|---|---|
+| **Amazon.it** | **Sì** (confermato dall'utente il 2026-11-11) | Solo prodotti **nuovi, venduti e spediti da Amazon**. Esclusi venditori terzi e usato/Warehouse |
+| **Giannone Computers** | **Sì** (segnalato dall'utente; "Carta del Docente" tra i metodi di pagamento dello shop, verificato il 2026-11-11) | Asus Gold Store a Modica (RG), via Vanella Macallè 5, tel. 0932 906688. Shop online: shop.giannonecomputers.it (pagamenti: carta, PayPal, Klarna, bonifico, Carta del Docente). I prodotti hanno per nome il codice modello: si cerca per **codice SKU**, non per CPU (`index.php?route=product/search&search=<codice>&source=nuh&category_id=0`). Da includere sempre nella ricerca |
 | **Lenovo.com/it** | Sì | Registrarsi su Lenovo Istruzione (prezzi riservati), mettere il prodotto nel carrello, inviare buono a `cartadocente@lenovo.com`; differenza via **bonifico**; risposta entro 2 giorni lavorativi |
 | **IT-Partners (it-partners.it)** | Sì | Metodo di pagamento "Carta del Docente" al checkout, invio PDF del buono; differenza via **bonifico**; prezzi IVA inclusa |
 | **MediaWorld** | Sì, solo prodotti venduti da MediaWorld | Online scegliere "Ritiro e pagamento in negozio" e presentare buono + documento + codice fiscale; **marketplace escluso** (quasi tutti i notebook business su mediaworld.it sono marketplace) |
 | **Unieuro** | Sì (secondo guide 2026; da confermare in negozio) | Categoria PC/notebook ammessa; verificare pagamento misto e cumulabilità con promo Unieuro Club |
 | **Campustore** | Sì | Catalogo notebook molto ridotto |
-| **Reware** | Sì | Solo ricondizionati; differenza con carta/PayPal/bonifico |
+| **Reware** | Sì | Solo ricondizionati; differenza con carta/PayPal/bonifico. Al 2026-11-11 nessun modello con CPU ammessa (verificato dall'utente) |
 | Yeppon | **No** (non tra i metodi di pagamento) | — |
-| Amazon.it | Non affidabile (fonti contrastanti) | Evitare |
-| Euronics | Da verificare | Sito protetto da Cloudflare, non consultabile automaticamente |
+| **Euronics** | **Sì** (pagina ufficiale euronics.it/carta-del-docente.html, verificata il 2026-11-11) | Online: metodo "Carta del docente" in "Pagamento e fatturazione", **un solo buono per ordine**, differenza con carta o PayPal. In negozio: si porta il buono. Al 2026-11-11 nessun modello con CPU ammessa (verificato dall'utente). Il sito blocca la consultazione automatica (Cloudflare) |
 
 ## Criteri di punteggio (totale 100)
 
@@ -83,6 +88,8 @@ Regola: **8 core Zen 5 (o più recenti) + NPU ≥ 50 TOPS**. Nel dubbio verifica
 | Autonomia | 25 | Da test Wi-Fi Notebookcheck: ≥ 15 h = 25; 14 h ≈ 22; 13 h ≈ 21; 12 h ≈ 18; 10 h ≈ 14. Se non misurata: stima da Wh (≈ 0,2 h/Wh per Krackan Point) con penalità di incertezza |
 | Affidabilità | 20 | Linea di prodotto, materiali, garanzia (36 mesi = bonus), riparabilità, storico del marchio, voto recensioni |
 | Prezzo | 10 | Sotto i 1.200 € (vincolo): 10 = ≤ 850 €, 8 = ≤ 1.000 €, 6 = ≤ 1.150 €, 5 = ≤ 1.200 € |
+
+GPU dedicata: **esclusione** (non punteggio basso).
 
 Disponibilità: un'offerta "non disponibile online" resta in classifica ma va segnalata con ⚠️ e non può essere la raccomandazione principale.
 
